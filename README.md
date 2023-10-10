@@ -2,7 +2,7 @@
 
 # Welcome to my profile  👋
 
-#### 🧍 My name is Othman and I'm 21 years old
+#### 🧍 My name is Othman and I'm 22 years old
 
 🔭 I’m currently studying to become a front end developer
 
