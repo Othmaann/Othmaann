@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning ReactJS
 
-🤔 I’m looking for an internship week 8–17 (2023)
+🤔 I’m looking for a job :) 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/othman-abdolhalim-36b2731ba/)
 
